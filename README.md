@@ -22,5 +22,7 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonlero)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonlero&show_icons=true&theme=radical)
+<a href="https://github.com/Yonlero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yonlero&include_all_commits=true&show_icons=true&theme=radical&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonlero&langs_count=16&layout=compact&theme=radical">
+</a>
