@@ -11,7 +11,7 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/>
 </a>
 <a href='https://api.whatsapp.com/send?phone=5547992135143' target='_blank'>
-<img src='![image](https://user-images.githubusercontent.com/56354812/183131707-9764d009-e6b8-48dd-a3c4-d3abbe6acba3.png)' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/>
+<img src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/>
 </a>
 
 # Minhas Habilidades
