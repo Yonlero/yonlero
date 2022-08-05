@@ -1,9 +1,10 @@
 👋 Olá, sou Abraão Faher.<br>
 🤖 Busco evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.<br>
-💻 Atualmente estou aprendendo HTML, CSS, Javascript, PHP, Java e frameworks como Springboot, JWT, Microserviços, JUnit e Mockito.<br>
+💻 Atualmente trabalhando com Java e frameworks como Springboot, Springsecurity JWT, Microserviços, JUnit e Mockito.<br>
+📚 Estou estudando também tecnologias como Docker, Kubernets.<br> 
 
 # Conecte-se comigo:
-<p>Olá, sou o Abraão Faher. Estudante de desenvolvimento web e em busca de expertise na área de back-end. Além de cursos em linguagens e frameworks, também atuo como desenvolvedor junior ajudante em projetos freelancer.</p>
+<p>Olá, sou o Abraão Faher. Estudante de desenvolvimento web e em busca de expertise na área de back-end. Além de cursos em linguagens e frameworks, também atuo como desenvolvedor junior.</p>
 
 Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp abaixo.<br><br>
 <a href='https://www.linkedin.com/in/abra%C3%A3-faher-00a' target='_blank'>
