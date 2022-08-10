@@ -20,7 +20,7 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
 <img src='https://cdn.worldvectorlogo.com/logos/go-8.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
-<img src='https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg' alt='whatsapp' width='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
+<img src='https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg' alt='whatsapp' widtf='20' height='40' style='max-width:100%;margin:0 2px;'/></img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='whatsapp' widtf='40' height='40' style='max-width:100%;margin:0 2px;'/></img>
 
 <a href="https://github.com/Yonlero">
